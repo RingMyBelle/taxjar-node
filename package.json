@@ -1,6 +1,7 @@
 {
   "name": "@ringmybelle/taxjar",
-  "version": "4.0.1",
+  "version": "4.0.2",
+  "private": false,
   "description": "TaxJar Sales Tax API for Node",
   "homepage": "https://github.com/RingMyBelle/taxjar-node",
   "author": "TaxJar <jake@taxjar.com> (https://www.taxjar.com/)",
