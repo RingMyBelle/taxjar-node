@@ -1,11 +1,10 @@
 {
-  "name": "taxjar",
+  "name": "@ringmybelle/taxjar",
   "version": "4.0.1",
   "description": "TaxJar Sales Tax API for Node",
-  "homepage": "https://github.com/taxjar/taxjar-node",
+  "homepage": "https://github.com/RingMyBelle/taxjar-node",
   "author": "TaxJar <jake@taxjar.com> (https://www.taxjar.com/)",
   "license": "MIT",
-  "bugs": "https://github.com/taxjar/taxjar-node/issues",
   "contributors": [
     "Jake Johnson <jake@taxjar.com>",
     "Scott Rudiger <scott.rudiger@taxjar.com>"
@@ -19,10 +18,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/taxjar/taxjar-node.git"
+    "url": "git://github.com/RingMyBelle/taxjar-node.git"
   },
   "engines": {
-    "node": ">= 10"
+    "node": ">= 18"
   },
   "main": "dist/taxjar.js",
   "files": [
